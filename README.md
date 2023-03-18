@@ -1,5 +1,4 @@
-# phase-1-project
-Phase 1 Project
+# Music Library
 
 THE BASIC STORY OF THIS APPLICATION:
 This application will be a SPA where you can look up, browse through, and search for data regarding musicians, instruments, record labels, and more music related entities.
